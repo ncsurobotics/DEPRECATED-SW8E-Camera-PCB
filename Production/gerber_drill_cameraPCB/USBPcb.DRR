@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USBPcb.PcbDoc   2/20/2022  2:10:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USBPcb.TXT
+ASCII RectHoles File : USBPcb-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             9         PTH        1.02inch (25.79mm)
+T2      10mil (0.254mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Rectangle         2         PTH        0.67inch (16.94mm)
+T4      28mil (0.711mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T5      30mil (0.762mm)                                           Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              15
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,6 +1,10 @@
-History/
-Project Logs*/
-Project Outputs*/
+History/**
+Project Logs*/**
+Project Outputs*/**
 ~*
 __Previews/
 *.PrjPcbStructure
+*.bak
+*.step
+*.STL
+*.SLDPRT
